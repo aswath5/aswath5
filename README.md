@@ -62,6 +62,29 @@ I'm a data scientist blending machine learning, scientific modeling, and full-st
 **Infra & DevOps:**  
 `Docker`, `Git/GitHub`, `Azure`, `AWS`, `PostgreSQL`, `MongoDB`, `Apache Spark`, `PySpark`
 
+---
+
+## 📚 Currently Exploring
+
+- Fourier Neural Operators (FNOs) for scientific ML  
+- Real-time ML deployment pipelines + MLOps best practices  
+- Equity-aware ML and bias analysis  
+- Large Language Models (LLMs) in healthcare and engineering
+
+---
+
+## 🎯 What I'm Looking For
+
+Open to full-time roles in:
+
+- **Data Science / ML Engineering**  
+- **Applied AI / Scientific Computing**  
+- **AI for Healthcare / Engineering**  
+- **Insight Strategy or Data Consulting**
+
+Looking to collaborate with teams who are driven, thoughtful, and focused on real impact.
+
+
 
 <!--
 **aswath5/aswath5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
