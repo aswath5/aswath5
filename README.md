@@ -84,7 +84,21 @@ Open to full-time roles in:
 
 Looking to collaborate with teams who are driven, thoughtful, and focused on real impact.
 
+---
 
+## 💬 Fun Facts
+
+- Competitive dancer: Founded a top-10 Indian crew and now dance with a US top-15 fusion team  
+- Presented ML work to federal agencies, clinicians, and researchers  
+- Passionate about merging analytics with social impact and accessibility
+
+---
+
+## 📬 Let’s Connect!
+
+If you're hiring, building something bold, or just want to nerd out over PINNs or surgical robotics — reach out!
+
+[💼 LinkedIn](https://www.linkedin.com/in/aswathamasm/) • 🐙 [GitHub](https://github.com/aswath5) • 📫 Email Me : aswathamasm@gmail.com
 
 <!--
 **aswath5/aswath5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
