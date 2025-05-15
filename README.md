@@ -88,7 +88,7 @@ Looking to collaborate with teams who are driven, thoughtful, and focused on rea
 
 ## 💬 Fun Facts
 
-- Competitive dancer: Founded a top-10 Indian crew and now dance with a US top-15 fusion team  
+- Competitive dancer: President of a top-10 College Indian crew and now dance with a US top-15 fusion team  
 - Presented ML work to federal agencies, clinicians, and researchers  
 - Passionate about merging analytics with social impact and accessibility
 
