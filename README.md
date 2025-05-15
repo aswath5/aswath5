@@ -67,9 +67,10 @@ I'm a data scientist blending machine learning, scientific modeling, and full-st
 ## 📚 Currently Exploring
 
 - Fourier Neural Operators (FNOs) for scientific ML  
+- Generative AI: Fine-tuning diffusion models and LLMs for domain-specific applications  
 - Real-time ML deployment pipelines + MLOps best practices  
-- Equity-aware ML and bias analysis  
-- Large Language Models (LLMs) in healthcare and engineering
+- LLM explainability, retrieval-augmented generation (RAG), and prompt engineering  
+- Equity-aware ML and bias analysis in healthcare + civic data
 
 ---
 
